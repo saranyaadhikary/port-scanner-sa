@@ -20,4 +20,4 @@ The Port Scanner is a Python script that allows users to scan a range of ports o
 
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/yourusername/port-scanner.git](https://github.com/saranyaadhikary/port-scanner-sa)
+   https://github.com/saranyaadhikary/port-scanner-sa
